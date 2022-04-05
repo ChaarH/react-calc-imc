@@ -2,7 +2,7 @@
 
 Projeto em React + Typescript
 
-Projeto desenvolvindo durante o curso [B7Web](https://b723b.com.br)
+Projeto desenvolvindo durante o curso [B7Web](https://b7web.com.br)
 
 ### Instalação
 - `npm install`
